@@ -8,3 +8,11 @@ This colab enables you to find potential proteins that will act similarly as you
 
 * A fasta file containing the sequence and numerical value representing the sequence (see the example fasta format below)
 
+
+<b>Example fasta format</b>:
+>\>Example_sequence_1 8.104<br>
+PIAQIHILEGRSDEQKETLIREVSEAISRSLDAPLTSVRVIITEMAKGHFGIGGELASK<br>
+>\>Example_sequence_2 2.04<br>
+MIAQIHILEGRSD--KETLIRRVSEAISRSLDAPLTSVRVIIMEMAKGHFGIGGELASK<br>
+>\>Example_sequence_3 5.20<br>
+SIATIHILEGRSDEDKETLIRRV---ISRSLDAPLTSVRVIIMTMAKKHFGIGGELASK
