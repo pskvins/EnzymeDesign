@@ -5,5 +5,6 @@ This colab enables you to find potential proteins that will act similarly as you
 
 <br>
 <b>What you need to prepare</b>
+
 * A fasta file containing the sequence and numerical value representing the sequence (see the example fasta format below)
 
